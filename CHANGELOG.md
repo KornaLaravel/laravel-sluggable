@@ -2,6 +2,10 @@
 
 All notable changes to `laravel-sluggable` will be documented in this file
 
+## 4.0.2 - 2026-04-30
+
+- Shorten the bundled Laravel Boost skill description so it loads in OpenAI Codex (1024 character limit).
+
 ## 4.0.1 - 2026-04-29
 
 **Full Changelog**: https://github.com/spatie/laravel-sluggable/compare/4.0.0...4.0.1
