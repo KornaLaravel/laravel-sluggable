@@ -10,7 +10,7 @@
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/spatie/laravel-sluggable.svg?style=flat-square)](https://packagist.org/packages/spatie/laravel-sluggable)
 [![MIT Licensed](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
-[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/spatie/laravel-sluggable/run-tests.yml)](https://github.com/spatie/laravel-sluggable/actions)
+[![GitHub Workflow Status](https://github.com/spatie/laravel-sluggable/actions/workflows/run-tests.yml/badge.svg)](https://github.com/spatie/laravel-sluggable/actions)
 [![Total Downloads](https://img.shields.io/packagist/dt/spatie/laravel-sluggable.svg?style=flat-square)](https://packagist.org/packages/spatie/laravel-sluggable)
     
 </div>
